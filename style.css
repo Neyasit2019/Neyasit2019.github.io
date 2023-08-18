@@ -35,9 +35,16 @@ img {
 	color:white;
 	text-indent:100px;
 	padding-left: 70%;
+	
 }
 
 
+
+div {
+position: absolute;
+top: 150px; 
+	
+}
 
 
 /* FOOTER */
