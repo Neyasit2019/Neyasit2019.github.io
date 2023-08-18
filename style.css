@@ -17,6 +17,13 @@ background-origin: content-box;
 img {
   width: 100%;
 }
+h1 {
+	background-color: skyblue;
+	font-size: 100px;
+        font-weight: bold;
+        color: khaki;
+        text-align: center;
+}
 
 .header p{
 	
