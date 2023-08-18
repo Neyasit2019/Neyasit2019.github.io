@@ -35,11 +35,12 @@ img {
 	color:white;
 	text-indent:100px;
 	padding-left: 20%;
+	}
+
+nav {
 	position: absolute;
         top: 150px; 
 }
-
-
 
 /* FOOTER */
 .footer{
