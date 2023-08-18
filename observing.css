@@ -1,0 +1,22 @@
+
+/* Body */
+body {
+  font-family: "Open Sans", sans-serif;
+  background: url("./sombrero_galaxy.jpg") ;
+  
+}
+
+nav a{
+	font-size: 35px;
+	font-style: italic;
+	font-style: bold;
+	color:white;
+}
+
+p{
+	font-size: 24px;
+	font-style: italic;
+	font-style: bold;
+	color:blue;
+	text-indent:100px;
+}

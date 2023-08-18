@@ -1,0 +1,28 @@
+
+/* Body */
+body {
+  font-family: "Open Sans", sans-serif;
+  background: center/100% url("./hqdefault.jpg") ;
+  
+}
+
+nav a{
+	font-size: 35px;
+	font-style: italic;
+	font-style: bold;
+	color:white;
+}
+
+p{
+	font-size: 24px;
+	font-style: italic;
+	font-style: bold;
+	color:blue;
+}
+
+label{
+	font-size: 24px;
+	font-style: italic;
+	font-style: bold;
+	color:white;
+}

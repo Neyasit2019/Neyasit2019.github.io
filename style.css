@@ -1,0 +1,53 @@
+
+
+
+
+html {
+  font-size: 16px;
+
+}
+
+/* Body */
+body {
+  font-family: "Open Sans", sans-serif;
+  background: no-repeat center/100% url("./istock-664670026.jpg") ;
+  background-origin: content-box;
+}
+
+.header p{
+	font-size: 50px;
+	color:white;
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-style: bold;
+	text-align: center;
+}
+
+.list a{
+	font-size: 35px;
+	font-style: italic;
+	font-style: bold;
+	color:white;
+	text-indent:100px;
+	padding-left: 70%;
+}
+
+
+
+
+/* FOOTER */
+.footer{
+	background-color: hsl(220, 100%, 70%);
+	color:black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	padding: 20px 0;
+	margin-top: 30px;
+	position: fixed;
+	bottom: 3%;
+	width: 100%
+}
+
+.footer p {
+	padding-left: 100px;
+}

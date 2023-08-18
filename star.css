@@ -1,0 +1,27 @@
+
+
+/* Body */
+body {
+  font-family: "Open Sans", sans-serif;
+  background: url("./orion.jpg") ;
+  background-origin: cover;
+}
+
+nav a{
+	font-size: 35px;
+	font-style: italic;
+	font-style: bold;
+	color:white;
+}
+
+p{
+	font-size: 24px;
+	font-style: italic;
+	font-style: bold;
+	color:pink;
+}
+
+.star {
+	width:300px;
+	height: 280px;
+}
