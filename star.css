@@ -12,6 +12,8 @@ nav a{
 	font-style: italic;
 	font-style: bold;
 	color:white;
+	position: absolute;
+	top: 150px;
 }
 
 p{
