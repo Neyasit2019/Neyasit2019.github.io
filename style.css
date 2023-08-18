@@ -14,7 +14,9 @@ body {
 main{
 background-origin: content-box;
 }
-
+img {
+  width: 100%;
+}
 
 .header p{
 	
