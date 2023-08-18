@@ -12,7 +12,7 @@ body {
   font-family: "Open Sans", sans-serif;
   }
 main{
-background: no-repeat center/100% url("main.jpeg") ;	
+background-image: url("main.jpeg") ;	
 background-origin: content-box;
 }
 
