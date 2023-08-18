@@ -2,7 +2,7 @@
 /* Body */
 body {
   font-family: "Open Sans", sans-serif;
-  background: center/100% url("./hqdefault.jpg") ;
+  background-image: url("hqdefault.jpg") ;
   
 }
 
