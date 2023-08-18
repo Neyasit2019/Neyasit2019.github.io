@@ -35,16 +35,10 @@ img {
 	color:white;
 	text-indent:100px;
 	padding-left: 20%;
-	
+	position: absolute;
+        top: 150px; 
 }
 
-
-
-div {
-position: absolute;
-top: 150px; 
-	
-}
 
 
 /* FOOTER */
