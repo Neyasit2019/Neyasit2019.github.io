@@ -13,6 +13,7 @@ body {
   }
 main{
 background-origin: content-box;
+	
 }
 img {
   width: 100%;
@@ -46,7 +47,7 @@ h1 {
 
 .header {
 	position: absolute;
-        top: 150px; 
+        top: 250px; 
 }
 
 /* FOOTER */
