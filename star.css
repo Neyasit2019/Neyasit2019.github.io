@@ -3,8 +3,7 @@
 /* Body */
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url("orion.jpg") ;
-  background-origin: cover;
+  background-image: linear-gradient(to left, blue, yellow)
 }
 
 nav a{
@@ -12,17 +11,64 @@ nav a{
 	font-style: italic;
 	font-style: bold;
 	color:white;
-	
 }
 
 p{
 	font-size: 24px;
 	font-style: italic;
 	font-style: bold;
-	color:pink;
+	color: white;
+	font-weight: 700;
+	padding-right: 100px;
+	padding-left: 50px;
+	display: block;
+	text-align: justify;
+}
+
+span {
+	font-size: 50px;
+	font-style: italic;
+	font-style: bold;
+	color:black;
+	font-weight: 900;
 }
 
 .star {
 	width:300px;
 	height: 280px;
+	vertical-align:text-top;
 }
+
+#summer, #winter, #venus, #mars, #jupiter, #saturn, #moon {
+	display: flex;
+	height: 400px;
+	padding: 30px 0;
+}
+
+
+
+.nav {
+	text-align: center;
+	margin-top: 30px;
+  }
+  
+.nav a {
+	background-color: darkblue;
+	border-radius: 10px;
+	color: white;
+	font-family: 'Yantramanav', sans-serif;
+	font-size: 35px;
+	font-style: italic;
+	font-weight: 1000;
+	display: inline-block;
+	margin: 10px;
+	padding: 12px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+  }
+
+.nav a:hover {
+	background-color: white;
+	color: darkblue;
+  }	  
